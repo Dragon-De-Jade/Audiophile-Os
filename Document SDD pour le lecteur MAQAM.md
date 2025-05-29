@@ -1,6 +1,6 @@
-﻿Lecteur MAQAM
+# Plan de conception du lecteur MAQAM
 
-Tâches (15)
+Nombres de tâches : 15
 
 Tâche 1-Mettre en place la structure initiale du projet et l'environnement de développement
 
@@ -140,8 +140,7 @@ Critères de succès
 1. Le routage fonctionne correctement pour toutes les vues.
 1. La couche de service API communique avec succès avec le backend.
 1. Le thème est appliqué de manière cohérente avec un fond sombre et des accents
-
-orange.
+orange (#ff9800), contraste élevé, design responsive..
 
 1. L'interface utilisateur est réactive et optimisée pour les écrans tactiles.
 1. TypeScript est correctement configuré avec les types appropriés.
